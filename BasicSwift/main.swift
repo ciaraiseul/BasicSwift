@@ -47,7 +47,7 @@ func kiemTran() {
     } else if n<0{
         message += "So am, "
     } else {
-        message += "So 0, "
+        message += "So 0, Test"
     }
 }
 
